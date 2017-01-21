@@ -1,4 +1,4 @@
-# easy_day_night_cycle
+# Day and Night Cycle in Unity
 Simple day night cycle for Unity.
 
 A drag and drop time management system for your game. Easily implement a simple day/night cycle.
